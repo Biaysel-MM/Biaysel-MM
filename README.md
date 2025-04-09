@@ -13,7 +13,7 @@ Creo soluciones digitales funcionales e innovadoras, con especial atención a la
 ### 🚀 Sobre mí  
 Soy un apasionado del desarrollo web y móvil. Desde muy joven descubrí mi amor por la programación y ahora me dedico a construir proyectos que marquen la diferencia.  
 
-- 🌱 Actualmente aprendiendo: **Python** y **Bootstrap**  
+- 🌱 Actualmente sigo aprendiendo: **Nodejs y su stack** y **React**  
 - 🎹 Pianista (¡la música y el código tienen más en común de lo que parece!)  
 - 💪 Calisténico: La disciplina del entrenamiento aplicada al desarrollo  
 - ✝️ Cristiano: Valores como la integridad guían mi trabajo  
