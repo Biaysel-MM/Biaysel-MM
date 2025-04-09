@@ -34,4 +34,12 @@ Soy un apasionado del desarrollo web y móvil. Desde muy joven descubrí mi amor
 [![Email](https://img.shields.io/badge/Email-biayselminyety001@gmail.com-red?style=flat&logo=gmail)](mailto:biayselminyety001@gmail.com)  
 [![Portfolio](https://img.shields.io/badge/🌐_Portafolio-Explora_mis_proyectos-green?style=flat)](https://biaysel-mm.github.io/portafolio/)  
 
-> *"No solo escribo código, construyo experiencias."*  
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Biaysel-MM&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Biaysel-MM&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Biaysel-MM&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+
+---
+[![](https://visitcount.itsvg.in/api?id=Biaysel-MM&icon=0&color=0)](https://visitcount.itsvg.in)
+
+> *"No solo escribo código, construyo experiencias."*
